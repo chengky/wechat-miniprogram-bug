@@ -1,0 +1,8 @@
+.circle-box {
+    margin: 0 auto;
+  position: relative;
+  text-align: center;
+}
+.circle-bg{
+  position: absolute;
+}

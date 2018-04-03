@@ -1,0 +1,8 @@
+<view class="title">tab页面调用自定义组件</view>
+<circle id="circle" bg="circle_bg" wx:if="{{show}}">
+    <view class="circle-txt">自定义组件</view>
+</circle>
+<view class="btns">
+    <button bindtap="load" wx:if="{{!show}}">加载自定义组件</button>
+    <button bindtap="goLastpage" wx:if="{{show}}">进入下一页再点后退</button>
+</view>

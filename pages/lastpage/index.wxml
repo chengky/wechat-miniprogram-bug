@@ -1,0 +1,3 @@
+<view class="container">
+<button bindtap="back">返回上一步</button>
+</view>

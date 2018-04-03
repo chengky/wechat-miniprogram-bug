@@ -1,0 +1,4 @@
+<view class="circle-box" style="width:{{size}}px;height:{{size}}px">
+    <canvas class="circle" canvas-id="{{bg}}" style="width:{{size}}px;height:{{size}}px"></canvas>
+    <slot></slot>
+</view>

@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<view class="btns">
+  <button bindtap="goTabbar">进行tab页调用自定义组件</button>
+  <button bindtap="goNormal">进行普通页调用自定义组件</button>
+</view>

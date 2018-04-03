@@ -1,0 +1,5 @@
+.err {
+    font-size: 20rpx;
+    color: #f00;
+    line-height: 1.2;
+}
